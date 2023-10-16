@@ -4,4 +4,4 @@ This contains helper tools for personal use in Factorio. It may include updates 
 but has also been largely drawn from the following creators:
 
 - [raynquist Balancer Book](https://github.com/raynquist/balancer)
-- [Nilaus Master Class Bluprints](https://nilaus.atlassian.net/wiki/spaces/PM/pages/2852782081/Factorio+-+Master+Class+Blueprints)
+- [Nilaus Master Class Blueprints](https://nilaus.atlassian.net/wiki/spaces/PM/pages/2852782081/Factorio+-+Master+Class+Blueprints)
